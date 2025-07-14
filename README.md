@@ -17,8 +17,8 @@ The scanner automatically starts when you open the page and grant camera permiss
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/qr-scanner.git
-   cd qr-scanner
+   git clone https://github.com/Nazifr/qrScanner.git
+   cd qrScanner
    ```
 
 2. Install dependencies:
